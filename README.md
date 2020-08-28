@@ -3,7 +3,8 @@
 T.B.D.
 
 ## System architecture
-T.B.D.
+![](https://i.imgur.com/iI3HyBi.png)
+
 
 ## How to use
 T.B.D.
